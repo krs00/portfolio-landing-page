@@ -23,4 +23,33 @@ p, h1, h2, h3, h4, h5, h6 {
 
 /* RESET OVER */
 
+/* COLOR PALETTE REFERENCE --
+
+
+
+*/
+
+#header {
+    height: 30vh;
+    background-color: antiquewhite;
+}
+
+#projects-section {
+    height: 40vh;
+    background-color: brown;
+}
+
+#about-section {
+    height: 40vh;
+    background-color: aqua;
+
+}
+
+#footer {
+    height: 5vh;
+}
+
+
+
+
 
