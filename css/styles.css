@@ -29,8 +29,15 @@ p, h1, h2, h3, h4, h5, h6 {
 
 */
 
+/* PAGE SECTIONS */
+
+#navbar {
+    height: 7.5vh;
+}
+
+
 #header {
-    height: 30vh;
+    height: 55vh;
     background-color: antiquewhite;
 }
 
@@ -46,8 +53,12 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 #footer {
-    height: 5vh;
+    height: 7.5vh; 
 }
+
+/* PAGE SECTIONS END */
+
+
 
 
 
