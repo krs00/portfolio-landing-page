@@ -1,15 +1,20 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
 /* A small reset section for ease of use */
 
 * {
     box-sizing: border-box;
 }
 
-* {
+* { 
     margin: 0;
 }
 
 html, body {
-    height: 100%;
+    height: 100%; 
 }
 
 img, picture, video, canvas, svg {
@@ -31,20 +36,51 @@ p, h1, h2, h3, h4, h5, h6 {
 
 /* PAGE SECTIONS */
 
+
+
+/* NAV SECTION */
 #navbar {
     height: 7.5vh;
 }
+/* NAV SECTION END */
 
 
+
+/* HEADING SECTION */
 #header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 55vh;
-    background-color: antiquewhite;
+    background-color: #FFFFFF;
 }
 
+
+.header-img {
+    height: 30rem;
+}
+
+#main-text {
+
+    display: flex;
+    align-items: center;
+    
+}
+
+/* HEADING SECTION END */
+ 
+
+/* PROJECTS SECTION */
 #projects-section {
     height: 40vh;
     background-color: brown;
 }
+/* PROJECTS SECTION END */
+
+
+
+
+
 
 #about-section {
     height: 40vh;
@@ -52,9 +88,18 @@ p, h1, h2, h3, h4, h5, h6 {
 
 }
 
+
+
+
+
+
+
 #footer {
     height: 7.5vh; 
 }
+
+
+
 
 /* PAGE SECTIONS END */
 
