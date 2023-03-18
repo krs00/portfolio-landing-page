@@ -51,7 +51,7 @@ p, h1, h2, h3, h4, h5, h6 {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 55vh;
+    height: 60vh;
     background-color: #FFFFFF;
 }
 
@@ -61,12 +61,10 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 #main-text {
-
     display: flex;
     align-items: center;
     font-size: 5.5vh;
-    margin-right: 8vh;
-    
+    margin-right: 8vh;  
 }
 
 /* HEADING SECTION END */
@@ -75,7 +73,7 @@ p, h1, h2, h3, h4, h5, h6 {
 /* PROJECTS SECTION */
 #projects-section {
     height: 40vh;
-    background-color: brown;
+    background-color: #FFFFFF;
 }
 /* PROJECTS SECTION END */
 
@@ -83,23 +81,24 @@ p, h1, h2, h3, h4, h5, h6 {
 
 
 
-
-#about-section {
+/* ABOUT ME SECTION */
+#about-section { 
     height: 40vh;
-    background-color: aqua;
+    background-color: #fff1e6;
 
 }
+/* ABOUT ME SECTION END */
 
 
 
 
 
-
-
+/* FOOTER SECTION */
 #footer {
+    background-color: #fff1e6;
     height: 7.5vh; 
 }
-
+/* FOOTER SECTION END */
 
 
 
