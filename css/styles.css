@@ -96,8 +96,12 @@ p, h1, h2, h3, h4, h5, h6 {
 /* FOOTER SECTION */
 #footer {
     background-color: #fff1e6;
-    height: 7.5vh; 
+    height: 7.5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
 /* FOOTER SECTION END */
 
 
