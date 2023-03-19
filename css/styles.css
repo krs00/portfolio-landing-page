@@ -115,6 +115,16 @@ p, h1, h2, h3, h4, h5, h6 {
 
 /* PAGE SECTIONS END */
 
+.container {
+    max-width: 60%;
+}
+
+.section-title {
+    display: flex;
+    justify-content: center;
+    font-size: 6vh;
+    margin-bottom: 4vh;
+}
 
 
 
